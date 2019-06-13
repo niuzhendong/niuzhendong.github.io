@@ -16,7 +16,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     niuzhendong
+weibo_username:     niuzhendong
 zhihu_username:     niuzhendong
 github_username:    niuzhendong
 #facebook_username:  baiying.qiu.7
@@ -76,7 +76,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "geotools",
+        href: "https://geotools.org/"
+    },
+    {
+        title: "Apache Ambari",
+        href: "http://ambari.apache.org/"
+    },
+    {
+        title: "cn schema",
+        href: "https://schema.org.cn/"
     }
 ]
