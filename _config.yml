@@ -11,7 +11,7 @@ github_repo: "https://github.com/niuzhendong/niuzhendong.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Those that can, do. Those that can’t, complain."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
